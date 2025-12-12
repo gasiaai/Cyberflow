@@ -1,0 +1,5 @@
+{
+  "name": "CyberFlow Visualizer",
+  "description": "A futuristic data particle visualization generator capable of rendering 4K video exports.",
+  "requestFramePermissions": []
+}
